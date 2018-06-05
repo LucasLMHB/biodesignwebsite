@@ -58,10 +58,10 @@ BLUE: #B32E2E;
     color: #FFF;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #FFC832;
+    color: #FF3434;
 }
 .navbar-default .navbar-nav>li>a:focus {
-    color: #1EFF00;
+    color: #FF3434;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     color: #FF3434;
@@ -197,6 +197,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
+h7 {font-weight: 200; }
 a {
     outline: 0;
     color: #B32E2E;
@@ -964,8 +965,7 @@ p {
     opacity: 1;
     -webkit-opacity: 1;
     -moz-opacity: 1;
-    -0-opacity: 1;
-}
+    -0-opacity: 1; }
 .testimonial-slider {
     margin: 5px auto;
     max-width: 700px;
