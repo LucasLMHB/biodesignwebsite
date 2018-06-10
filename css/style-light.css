@@ -58,13 +58,13 @@ BLUE: #B32E2E;
     color: #FFF;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #FF3434;
+    color: #0294A5;
 }
 .navbar-default .navbar-nav>li>a:focus {
-    color: #FF3434;
+    color: #03353e;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: #FF3434;
+    color: #0294A5;
     background-color: inherit;
 }
 .navbar-collapse {
@@ -367,7 +367,7 @@ p {
     outline: 0;
 }
 .slides-navigation a:hover {
-    background: #B32E2E;
+    background: #B32E2E];
     color: #FFF;
 }
 .slides-navigation a.prev {
@@ -428,7 +428,7 @@ p {
     box-shadow: inset 0px -1px 0px 0px rgba(255, 255, 255, 0.14);
 }
 .slides-pagination a.current {
-    background: #B32E2E;
+    background: #0294A5;
     -webkit-box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.3);
     box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.3);
@@ -745,7 +745,7 @@ p {
     color: #FFF;*/
     /* Andrei : The code in comments is for the 'circles' that were used in the 2015 version. I replaced them with squares*/;
     font-size: 20px;
-    border-bottom: 45px solid #B32E2E;
+    border-bottom: 45px solid #c1403d;
     border-left: 45px solid transparent;
 }
 /*
