@@ -6,11 +6,11 @@ dp(document).ready(function() {
     // Superslides fullscreen slider
     dp('#slides').superslides({
         animation: 'fade', // Choose between slide or fade
-        play: 4000
+        play: 8000
     });
     dp('#slides_cs').superslides({
         animation: 'fade', // Choose between slide or fade
-        play: 4000,
+        play: 8000,
         pagination: false
     });
     //BACK TO TOP

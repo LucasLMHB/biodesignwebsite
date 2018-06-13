@@ -18,6 +18,17 @@ BLUE: #B32E2E;
 
 /* ======== BOOTSTRAP STYLE ========= */
 
+#logo{
+    height:80px;
+}
+
+.container-text{
+    background:white;
+}
+
+.bigger{
+    font-size:20px;
+}
 /*
     NAVBAR
 */
@@ -33,8 +44,10 @@ BLUE: #B32E2E;
 }
 .navbar .navbar-brand {
     font-family:'Raleway', sans-serif;
-    padding: 18px 25px;
-    padding-right: 30px;
+    padding: 10px;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:15px;
     font-weight: 900;
     text-transform: uppercase;
     height: auto;
@@ -757,6 +770,10 @@ p {
     position: relative;
     z-index: 1;
 }
+.pict{
+
+}
+
 .teams .pict {
     position: relative;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4);
